@@ -18,7 +18,5 @@ This project showcases a collection of images in an elegant, user-friendly inter
 
 ## 🧩 Technologies Used
 
-| Technology | Purpose |
-|-------------|----------|
 | **HTML|
-| **CSS3 | Styling and responsiveness |
+| **CSS | Styling and responsiveness |
